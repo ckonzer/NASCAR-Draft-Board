@@ -121,7 +121,7 @@ DM | Ty Gibbs
 CA | Chase Briscoe
 MR | Bubba Wallace
 DiG | Austin Dillon
-CK | Kyle Larson
+CK | Tyler Reddick
 CB | William Byron"""
 mapping_text = st.sidebar.text_area("Assignments", value=default_mapping, height=280)
 
